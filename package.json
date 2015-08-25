@@ -1,10 +1,10 @@
 {
-    "name": "phonegap-app-heroku",
+    "name": "onceinteractive-app",
     "description": "Template for deploying a hosted app to Heroku.",
     "version": "0.0.1",
     "repository": {
         "type": "git",
-        "url": "git@heroku.com:phonegap-app-heroku.git"
+        "url": "git@github.com:onceinteractive/first-app.git"
     },
     "private": "true",
     "scripts": {
